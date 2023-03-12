@@ -23,8 +23,7 @@ and the period prior to the selected one
 4.Create Growth Indicator Shapes based on the Growth %
 • Growth indicator displays Negative, No Change, and Positive as values and corresponding shapes against it.
 
-5.
-Create a trend line to show the selected category values
+5.Create a trend line to show the selected category values
 •Theline shows an arrow or triangle at the last mark
 
 6.Create a dashboard filter for income group to be applied for all charts with the filter action enabled in the map as well
